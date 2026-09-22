@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎓 Certifications
+
+<p align="center">
+  <a href="https://coursera.org" target="_blank">
+    <img src="https://wikimedia.org" width="100" alt="Coursera Logo"><br>
+    <b>Fundamentals of UI/UX Design</b><br>
+    <i>Authorized by Microsoft & Offered through Coursera</i><br>
+    <sub>👉 Click here to verify the certificate</sub>
+  </a>
+</p>
