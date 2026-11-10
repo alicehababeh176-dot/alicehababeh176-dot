@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### 🎓 Certificates
 
 <p align="center">
-  <a href="https://coursera.org" target="_blank">
-    <img src="https://wikimedia.org" width="100" alt="Coursera Logo"><br>
+  <a href="https://coursera.org/verify/40TYF4Y6F206" target="_blank">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Coursera-Logo_600x600.svg" width="100" alt="Coursera Logo"><br>
     <b>Fundamentals of UI/UX Design</b><br>
-    <i>Authorized by Microsoft & Offered through Coursera</i><br>
+    <i>Authorized by Microsoft &amp; Offered through Coursera</i><br>
     <sub>👉 Click here to verify the certificate</sub>
   </a>
 </p>
